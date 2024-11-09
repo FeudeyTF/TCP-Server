@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Action.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="TCPClient.cpp" />
+    <ClCompile Include="TCPServer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Action.h" />
+    <ClInclude Include="global.h" />
+    <ClInclude Include="TCPClient.h" />
+    <ClInclude Include="TCPServer.h" />
+  </ItemGroup>
+</Project>
